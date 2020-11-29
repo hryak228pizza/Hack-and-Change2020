@@ -16,7 +16,7 @@ body {
 }
 .header .hd {
 	display:table-cell;
-	vertical-align:500px;
+	vertical-align:middle;
 	z-index: 1;
 	background-color: rgba(0,0,0,0.5);
 }
