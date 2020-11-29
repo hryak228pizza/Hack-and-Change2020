@@ -80,13 +80,13 @@ body {
 	margin-top: 3rem;
 }
 .port .foto img {
-	height: 35rem;
-	width: 35rem:
+	height: 25rem;
+	width: 25rem:
 }
 .port .text h3 {
 	color: #fff;
 	font-size: 3rem;
-	text-align: center;
+	text-align: left;
 }
 .port a:hover h3 {
 	color: #000;
