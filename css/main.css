@@ -5,7 +5,7 @@ body {
 }
 .header {
 	background: #000 url(../img/zma2.png) center center no-repeat;
-	height: 100vh;
+	height: 100%;
 	width: 100%;
 	position: relative;
 	text-align: center;
@@ -80,8 +80,8 @@ body {
 	margin-top: 3rem;
 }
 .port .foto img {
-	height: 25rem;
-	width: 25rem:
+	height: 35rem;
+	width: 35rem:
 }
 .port .text h3 {
 	color: #fff;
