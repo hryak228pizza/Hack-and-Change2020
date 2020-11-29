@@ -4,7 +4,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #000 url(../img/zma2.png) no-repeat center center;
+	background: #000 url(../img/zma2.png);
 	height: 100vh;
 	width: 100%;
 	position: relative;
@@ -12,6 +12,9 @@ body {
 	display: table;
 	color: #FF00FF;
 	z-index: 0;
+        background-size: cover;
+	background-repeat: no-repeat;
+        background-position: center;
 }
 .header .hd {
 	display:table-cell;
