@@ -10,13 +10,13 @@ body {
 	position: relative;
 	text-align: center;
 	display: table;
-	color: #FF00FF;
+	color: #DFD7D7;
 	z-index: 0;
         background-size: cover;
 }
 .header .hd {
 	display:table-cell;
-	vertical-align:middle;
+	vertical-align:500px;
 	z-index: 1;
 	background-color: rgba(0,0,0,0.5);
 }
