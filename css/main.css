@@ -4,7 +4,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #000 url(../img/zma2.png) no-repeat center center;
+	background: #000 url(../img/zma2.png) no-repeat center center fixed;
 	height: 100vh;
 	width: 100%;
 	position: relative;
