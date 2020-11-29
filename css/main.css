@@ -94,7 +94,7 @@ body {
 .port a:hover h3 {
 	color: #000;
 }
-.port a:hover .col-md-4 {
+.port a:hover .col-md-3 {
 	border: 2px;
 	background-color: #fff;
 	border-radius: 20px;
